@@ -21,8 +21,9 @@ public class newsItem {
         this.title = title;
         this.Description = Description;
         this.URL = URL;
-
+        this.Author=Author;
         this.PublishedAt = PublishedAt;
+        this.URLtoImge=URLtoImge;
 
     }
 
